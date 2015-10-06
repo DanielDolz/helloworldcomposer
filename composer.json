@@ -1,5 +1,5 @@
 {
-    "name": "acacha/hello-world-composer",
+    "name": "DanielDolz/hello-world-composer",
     "description": "asdfgasdfasd",
     "authors": [
         {
@@ -9,5 +9,10 @@
     ],
     "require": {
         "fzaninotto/faker": "^1.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Com\\Iesebre\\Dam2\\danieldolz\\helloworldcomposer\\": "src/"
+        }
     }
 }
