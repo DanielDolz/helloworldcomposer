@@ -7,5 +7,7 @@
             "email": "danieldolz@iesebre.com"
         }
     ],
-    "require": {}
+    "require": {
+        "fzaninotto/faker": "^1.5"
+    }
 }
