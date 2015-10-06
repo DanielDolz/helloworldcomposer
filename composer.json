@@ -1,0 +1,11 @@
+{
+    "name": "acacha/hello-world-composer",
+    "description": "asdfgasdfasd",
+    "authors": [
+        {
+            "name": "DanielDolz",
+            "email": "danieldolz@iesebre.com"
+        }
+    ],
+    "require": {}
+}
